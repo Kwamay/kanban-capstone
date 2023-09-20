@@ -1,8 +1,8 @@
-# JavaScript-Capstone-Kanban: Ometman-Ken-Enoh
+# JavaScript-Capstone-Kanban: Kwamay
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="./ometman-logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./src/logo/logo.jpg" alt="logo" width="140"  height="auto" />
   <br/>
   <h3><b>JavaScript-Capstone-Kanban: by O.K.E.</b></h3>
   <h5>This Fashion Store App is a funtional, single page with pure JavaScript. The setup including webpack, CSS, HTML and Jest testing framework. The project was built as a capstone project by collaboration and employed the Kanban board in organizing, assigning and managing tasks in the group.
@@ -194,16 +194,12 @@ You can deploy this project using:
 > Developed by: Omet Omeni (Ometman) && Enoh Collins (enohcol) && Kenneth Adu (Kwamay)
 
 ### Authors
-- GitHub: [@ometman](https://github.com/ometman)
-- Twitter: [@twitterhandle](https://twitter.com/ometman)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ometman/)
+
+👤 **Kwamay**
 
 - GitHub: [@kwamay](https://github.com/kwamay)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kwamay/)
-
-- GitHub: [@enohcol](https://github.com/enohcol)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/enohcol/)
-
+- Twitter: [@Kwamay3](https://twitter.com/Kwamay3)
+- LinkedIn: [Kwamay Adu](https://linkedin.com/in/кωαмαу-adu-2b396321a)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -220,7 +216,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ometman/JS-capstone-kanban/issues).
+Feel free to check the [issues page](https://github.com/Kwamay/kanban-capstone/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
